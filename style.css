@@ -1,0 +1,110 @@
+body {
+  background-color: #085c4a;
+  font-family: monospace;
+}
+
+section {
+  -webkit-box-shadow: 6px 6px 66px 6px rgba(0, 0, 0, 0.59);
+  box-shadow: 6px 6px 66px 6px rgba(0, 0, 0, 0.59);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  margin-top: 100px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 15px;
+  max-width: 500px;
+}
+
+header {
+  background-color: #023284;
+  background-size: cover;
+  height: 95px;
+  border-radius: 15px;
+}
+
+section h1 {
+  font-size: 22pt;
+  text-align: center;
+}
+
+section h2 {
+  font-size: 20pt;
+  text-align: center;
+  margin-top: 8px;
+}
+
+div {
+  padding: 15px;
+  border-radius: 5px;
+  background-color: whitesmoke;
+}
+
+img {
+  width: 160px;
+  height: 160px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-50%);
+  border: 8px solid white;
+}
+
+ol {
+  margin-left: 15%;
+  width: 250px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+li {
+  font-size: 15px;
+  list-style-type: none;
+  border-left: 8px solid black;
+  background: #023284e8;
+  padding: 7px;
+  margin: 8px;
+  border-radius: 5px;
+}
+
+button:hover {
+  opacity: 0.5;
+}
+
+button.socialMedia {
+  width: 150px;
+  height: 30px;
+  padding: 8px;
+  font-size: 12px;
+  transition: 0.6s;
+  cursor: pointer;
+  background-color: #023284e8;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border-radius: 3px;
+  border: 0px;
+  margin-top: 5px;
+  text-decoration: none;
+}
+
+.footer-social-media {
+  grid-column: 230px 230px;
+  grid-row: 356px;
+  display: flex;
+  justify-content: center;
+}
+
+.button-lkd {
+  margin-right: 10px;
+}
+
+.button-git {
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
