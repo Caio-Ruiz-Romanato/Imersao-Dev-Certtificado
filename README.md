@@ -6,4 +6,4 @@ Certificard conclusão imersão dev
 
 <img src="https://github.com/Caio-Ruiz-Romanato/Imersao-Dev-Certtificado/blob/main/Certificard.PNG?raw=true">
 
-* Aula proposto por  <a href="https://www.alura.com.br/"</a>
+* Aula proposto por <a href="https://www.alura.com.br/"></a>
