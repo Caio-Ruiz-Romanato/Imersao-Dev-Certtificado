@@ -4,5 +4,5 @@ Certificard conclusão imersão dev
 
 * Nesta aula foi proposto criar um certificado com todos os módulos que foi realizado durante a imersão dev.
 
-<img align="right" src="https://github.com/Caio-Ruiz-Romanato/Imersao-Dev-Certtificado/blob/main/Certificard.png?raw=true" width="600"/>
+<img align="center" src="https://github.com/Caio-Ruiz-Romanato/Imersao-Dev-Certtificado/blob/main/Certificard.png?raw=true" width="850"/>
 
