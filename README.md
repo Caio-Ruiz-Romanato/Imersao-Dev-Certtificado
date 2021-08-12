@@ -1,4 +1,4 @@
-# Imersao-Dev-Certtificado
+# Imersao-Dev-Certificado
 🌐 Certificard
 
 * Nesta aula foi proposto criar um certificado com todos os módulos que foi realizado durante a imersão dev.
